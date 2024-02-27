@@ -21505,9 +21505,9 @@
     "restore": {
       "projectUniqueName": "Segunda Seção",
       "projectName": "Segunda Seção",
-      "projectPath": "D:\\Uipath\\Segunda Seção\\.local",
+      "projectPath": "C:\\Users\\otavi\\OneDrive\\Documentos\\UiPath\\Uipath\\Segunda Seção\\.local",
       "packagesPath": "C:\\Users\\otavi\\.nuget\\packages\\",
-      "outputPath": "D:\\Uipath\\Segunda Seção\\.local"
+      "outputPath": "C:\\Users\\otavi\\OneDrive\\Documentos\\UiPath\\Uipath\\Segunda Seção\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {

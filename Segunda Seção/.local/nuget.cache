@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H6Lz1hENSexzCwbIqiYqvYABeZmNfU5xflbJhGzysLNu6Nbh6Ue8MhVXtSvq2jCY8rGKB0WVRTof7ZR00pxKrQ==",
+  "dgSpecHash": "yYHM5X22U7Dm6xjzfrCOvqiIapCQIwcGArdG2q6LULX6XwmWW2uxtwXk20BMoNF3TOJqKeb5sNTQ/9su4MTBag==",
   "success": true,
-  "projectFilePath": "D:\\Uipath\\Segunda Seção\\.local\\",
+  "projectFilePath": "C:\\Users\\otavi\\OneDrive\\Documentos\\UiPath\\Uipath\\Segunda Seção\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\otavi\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\otavi\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
