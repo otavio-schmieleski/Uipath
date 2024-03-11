@@ -11,6 +11,30 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "resultado&Sequence_2",
+        "mensagem_arg&Sequence_1",
+        "teste&Sequence_1",
+        "mensagem&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Argumento.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_arg_main",
+        "out_arg_mensagem"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "main_02.xaml",
+      "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
